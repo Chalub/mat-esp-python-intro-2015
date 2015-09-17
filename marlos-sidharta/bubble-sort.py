@@ -18,3 +18,4 @@ for i in range(0, N - 1, 1):
             lista[j]=temp
 print ("Lista em ordem crescente:", lista)
 print ("Cinco maiores valores:", lista[N-5:N])
+print ("Cinco menores valores:", lista[0:N-15])
