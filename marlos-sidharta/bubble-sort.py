@@ -1,5 +1,5 @@
 lista=[11, 18, 3, 1, 16, 12, 6, 19, 5, 0, 14, 4, 17, 9, 13, 7, 10, 15, 2, 8]
-print(lista)
+print("Lista original:", lista)
 #total de algarismos
 N=20 
 #algarismos da variavel lista
