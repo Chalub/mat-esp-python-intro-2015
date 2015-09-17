@@ -16,4 +16,4 @@ for i in range(0, N - 1, 1):
             lista[i]=lista[j]
 # por fiim, podemos associar o elementoda lista j a variavel temp, pois trocamos de lugar a variavel i e a variavel j
             lista[j]=temp
-print (lista)
+print ("Lista em ordem crescente:", lista)
